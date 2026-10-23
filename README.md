@@ -1,8 +1,4 @@
-# Sales_data_warehouse
-A SQL Server data warehouse that integrates CRM and ERP sales data into Bronze, Silver, and Gold layers, preparing it for customer, product, and sales analysis.
-
 # Sales Data Warehouse
-
 A SQL Server data warehouse that combines CRM and ERP data to support customer, product, and sales analysis. Data moves through Bronze, Silver, and Gold layers, with SQL scripts for loading, transformation, and quality checks.
 
 ## Project structure
